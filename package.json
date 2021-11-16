@@ -1,0 +1,16 @@
+{
+  "name": "Tipi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^12.2.6",
+    "discord.js": "^12.4.1"
+  }
+}
